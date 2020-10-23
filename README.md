@@ -1,7 +1,10 @@
 # vending-machine
 Technology Stack : .NET CORE 2.2
+
 IDE : Visual Studio 2019
+
 Installation Steps : 
+
 	1. Clone the repository
 	2. Build Solution
 ____________________________
@@ -11,6 +14,7 @@ I've built the task using the common design patterns which are related to the ve
 the current problem and build a well proper solution.
  
  Design patters :
+ 
 	  1. Dependancy injection
 	  2. Singelton
 	  3. pubsub
@@ -18,6 +22,7 @@ the current problem and build a well proper solution.
 	  5. Lazy Loading
  
  Algorithms :
+ 
 		1. Greedy for coin change ( see the description and written code in the task)
   
  User Flow : 
